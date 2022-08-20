@@ -184,7 +184,7 @@ void main()
 
 `链接 [百度][a]`
 
-`[a]:www.baidu.com'
+`[a]:www.baidu.com`
 
 链接[百度][a]
 
