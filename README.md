@@ -18,7 +18,7 @@
 
 效果展示：
 
-![1661001644052](C:\Users\Qinwen\AppData\Roaming\Typora\typora-user-images\1661001644052.png)
+![1661001644052](1661001644052.png)
 
 #### 第二种方式 
 
@@ -89,7 +89,7 @@ ___粗斜体文本___
 
 **用法**：
 
-![1661003545909](C:\Users\Qinwen\AppData\Roaming\Typora\typora-user-images\1661003545909.png)
+![1661003545909](1661003545909.png)
 
 **效果如下**：
 
@@ -99,7 +99,7 @@ ___粗斜体文本___
 
 **用法**：
 
-![1661003844000](C:\Users\Qinwen\AppData\Roaming\Typora\typora-user-images\1661003844000.png)
+![1661003844000](1661003844000.png)
 
 **效果如下**：
 
@@ -198,7 +198,7 @@ void main()
 
 **效果**：
 
-![这个是张图片](C:\Users\Qinwen\Pictures\Saved Pictures\OIP-C.jpg)
+![这个是张图片](OIP-C.jpg)
 
 ### 表格
 
