@@ -25,7 +25,7 @@
 使用 = 和 -   （在typroa貌似只有在源码模式的时候才生效)
 
 **在这里开启**
-![1661002096580](C:\Users\Qinwen\AppData\Roaming\Typora\typora-user-images\1661002096580.png)
+![1661002096580](1661002096580.png)
 `一级标题`
 `===`
 `二级标题`
@@ -152,7 +152,7 @@ ___粗斜体文本___
 
 使用三个反引号+语言 
 
-![1661003074795](C:\Users\Qinwen\AppData\Roaming\Typora\typora-user-images\1661003074795.png)
+![1661003074795](1661003074795.png)
 
 效果如下：
 
